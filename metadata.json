@@ -1,0 +1,7 @@
+{
+  "name": "MiniMart Inventory & POS",
+  "description": "Retail inventory and point-of-sale platform with smart billing, barcode POS, stock alerts, and role security.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
